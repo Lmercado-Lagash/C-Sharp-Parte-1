@@ -1,0 +1,6 @@
+C:\Users\Luis\source\repos\EnumeracionDeElementos\EnumeracionDeElementos\bin\Debug\EnumeracionDeElementos.exe.config
+C:\Users\Luis\source\repos\EnumeracionDeElementos\EnumeracionDeElementos\bin\Debug\EnumeracionDeElementos.exe
+C:\Users\Luis\source\repos\EnumeracionDeElementos\EnumeracionDeElementos\bin\Debug\EnumeracionDeElementos.pdb
+C:\Users\Luis\source\repos\EnumeracionDeElementos\EnumeracionDeElementos\obj\Debug\EnumeracionDeElementos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\EnumeracionDeElementos\EnumeracionDeElementos\obj\Debug\EnumeracionDeElementos.exe
+C:\Users\Luis\source\repos\EnumeracionDeElementos\EnumeracionDeElementos\obj\Debug\EnumeracionDeElementos.pdb

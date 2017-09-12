@@ -1,0 +1,7 @@
+C:\Users\Luis\source\repos\Constructor-Inicializacion\Constructor-Inicializacion\bin\Debug\Constructor-Inicializacion.exe.config
+C:\Users\Luis\source\repos\Constructor-Inicializacion\Constructor-Inicializacion\bin\Debug\Constructor-Inicializacion.exe
+C:\Users\Luis\source\repos\Constructor-Inicializacion\Constructor-Inicializacion\bin\Debug\Constructor-Inicializacion.pdb
+C:\Users\Luis\source\repos\Constructor-Inicializacion\Constructor-Inicializacion\obj\Debug\Constructor-Inicializacion.csprojResolveAssemblyReference.cache
+C:\Users\Luis\source\repos\Constructor-Inicializacion\Constructor-Inicializacion\obj\Debug\Constructor-Inicializacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Constructor-Inicializacion\Constructor-Inicializacion\obj\Debug\Constructor-Inicializacion.exe
+C:\Users\Luis\source\repos\Constructor-Inicializacion\Constructor-Inicializacion\obj\Debug\Constructor-Inicializacion.pdb
